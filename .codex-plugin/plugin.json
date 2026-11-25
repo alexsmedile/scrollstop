@@ -1,0 +1,24 @@
+{
+  "name": "scrollstop",
+  "version": "1.0.0",
+  "description": "Writes 12 opening hooks across 6 proven angles, scores each out of 20 on specificity, clarity, payoff, and length, drops anything under 16/20, and returns the top 3 with on-screen and spoken lines.",
+  "skills": "./skills/",
+  "hooks": "./hooks/hooks-codex.json",
+  "interface": {
+    "displayName": "scrollstop",
+    "shortDescription": "Writes and scores 2-second hooks for reels, covers, and posts \u2014 keeps only the top 3.",
+    "longDescription": "Writes 12 opening hooks across 6 proven angles, scores each out of 20 on specificity, clarity, payoff, and length, drops anything under 16/20, and returns the top 3 with on-screen and spoken lines.",
+    "developerName": "Alessandro Smedile",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/alexsmedile/scrollstop",
+    "defaultPrompt": [
+      "Write 12 scroll-stopping hooks for my carousel about AI writing skills",
+      "Score and fix this opening line so it survives the first 2 seconds"
+    ],
+    "brandColor": "#E51717"
+  }
+}

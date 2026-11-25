@@ -1,0 +1,34 @@
+{
+  "name": "scrollstop",
+  "owner": {
+    "name": "Alessandro Smedile"
+  },
+  "metadata": {
+    "description": "Writes 12 opening hooks across 6 proven angles, scores each out of 20 on specificity, clarity, payoff, and length, drops anything under 16/20, and returns the top 3 with on-screen and spoken lines.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "scrollstop",
+      "source": "./",
+      "description": "Writes 12 opening hooks across 6 proven angles, scores each out of 20 on specificity, clarity, payoff, and length, drops anything under 16/20, and returns the top 3 with on-screen and spoken lines.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alessandro Smedile"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/alexsmedile/scrollstop",
+      "repository": "https://github.com/alexsmedile/scrollstop",
+      "keywords": [
+        "skills",
+        "claude-code",
+        "scrollstop",
+        "hooks",
+        "copywriting",
+        "content-creation",
+        "retention"
+      ],
+      "category": "productivity"
+    }
+  ]
+}

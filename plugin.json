@@ -1,0 +1,27 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "scrollstop",
+  "version": "1.0.0",
+  "description": "Writes 12 opening hooks across 6 proven angles, scores each out of 20 on specificity, clarity, payoff, and length, drops anything under 16/20, and returns the top 3 with on-screen and spoken lines.",
+  "author": {
+    "name": "Alessandro Smedile",
+    "url": "https://github.com/alexsmedile"
+  },
+  "homepage": "https://github.com/alexsmedile/scrollstop",
+  "repository": "https://github.com/alexsmedile/scrollstop",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "claude-code",
+    "scrollstop",
+    "hooks",
+    "copywriting",
+    "content-creation",
+    "retention"
+  ],
+  "extensions": {
+    "com.google.antigravity": {
+      "description": "Writes and scores 2-second hooks for reels, covers, and posts \u2014 keeps only the top 3."
+    }
+  }
+}
